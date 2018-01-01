@@ -42,8 +42,5 @@ func consoleme(a string){
 }
 
 func main(){
-	ar := makeFields(3,3)
-	ar.revelme("1-2")
-	fmt.Println(ar)
-	//accueils()
+	ar := makeFields(4,3)
 }
