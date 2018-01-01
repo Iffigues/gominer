@@ -1,0 +1,10 @@
+package main
+
+var (
+	mine = "*"
+	
+)
+
+var (
+	welcome = "MineWisper"
+)

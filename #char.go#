@@ -1,0 +1,13 @@
+package main
+
+var (
+	mine = "*"
+	empty = "▓"
+	full = "░"
+	fully = "▒"
+	
+)
+
+var (
+	welcome = "MineWisper"
+)
