@@ -1,0 +1,2 @@
+# gominer
+minewisper in golang
